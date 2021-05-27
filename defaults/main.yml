@@ -1,0 +1,10 @@
+---
+
+appsembler_common_packages:
+  - curl
+  - emacs-nox
+  - htop
+  - iotop
+  - sysstat
+  - tmux
+  - vim

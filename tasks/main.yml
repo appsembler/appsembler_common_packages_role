@@ -1,0 +1,6 @@
+---
+- name: install appsembler common packages
+  apt:
+    name: "{{ item }}"
+    state: latest
+  with_items: "{{ appsembler_common_packages }}"
