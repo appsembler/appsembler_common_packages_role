@@ -9,6 +9,7 @@ debugging tools:
 * emacs
 * htop
 * iotop
+* ncdu
 * sysstat
 * tmux
 * vim
