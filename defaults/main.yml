@@ -6,6 +6,8 @@ appsembler_common_packages:
   - htop
   - iotop
   - ncdu
+  - sysdig
   - sysstat
   - tmux
   - vim
+
