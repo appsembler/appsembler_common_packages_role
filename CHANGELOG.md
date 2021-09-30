@@ -7,11 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-
-- add sysdig
-
 ### Changed
 ### Removed
+
+## [v1.2.0] - 2021-09-30
+
+### Added
+
+- add sysdig
 
 ## [v1.1.0] - 2021-06-24
 
@@ -19,9 +22,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - add ncdu
 
 ## [v1.0.0] - 2021-05-27
+
 ### Added
 - initial version.
 
-[Unreleased]: https://github.com/appsembler/appsembler_common_packages_role/compare/v1.1.0...HEAD
+[Unreleased]: https://github.com/appsembler/appsembler_common_packages_role/compare/v1.2.0...HEAD
+[v1.2.0]: https://github.com/appsembler/appsembler_common_packages_role/compare/v1.1.0...v1.2.0
 [v1.1.0]: https://github.com/appsembler/appsembler_common_packages_role/compare/v1.0.0...v1.1.0
 [v1.0.0]: https://github.com/appsembler/appsembler_common_packages_role_role/releases/tag/v1.0.0
